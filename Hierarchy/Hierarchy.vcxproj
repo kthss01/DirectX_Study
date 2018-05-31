@@ -20,11 +20,11 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{C369197F-B4F9-45C0-A2AC-9234FC13EC6F}</ProjectGuid>
+    <ProjectGuid>{4614F0BB-A6B7-4073-96D8-D717C2BFD4CD}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Tut01CreateDevice</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
-    <ProjectName>NormalMap</ProjectName>
+    <ProjectName>Hierarchy</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
