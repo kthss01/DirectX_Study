@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hierarchy", "Hierarchy\Hier
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NormalMap", "NormalMap\NormalMap.vcxproj", "{C369197F-B4F9-45C0-A2AC-9234FC13EC6F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Animate", "Animate\Animate.vcxproj", "{0D58E4F5-41B4-4BB6-ADB5-A14E019B7AB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -195,6 +197,18 @@ Global
 		{C369197F-B4F9-45C0-A2AC-9234FC13EC6F}.Release|x64.Build.0 = Release|x64
 		{C369197F-B4F9-45C0-A2AC-9234FC13EC6F}.Release|x86.ActiveCfg = Release|Win32
 		{C369197F-B4F9-45C0-A2AC-9234FC13EC6F}.Release|x86.Build.0 = Release|Win32
+		{0D58E4F5-41B4-4BB6-ADB5-A14E019B7AB0}.Debug|x64.ActiveCfg = Debug|x64
+		{0D58E4F5-41B4-4BB6-ADB5-A14E019B7AB0}.Debug|x64.Build.0 = Debug|x64
+		{0D58E4F5-41B4-4BB6-ADB5-A14E019B7AB0}.Debug|x86.ActiveCfg = Debug|Win32
+		{0D58E4F5-41B4-4BB6-ADB5-A14E019B7AB0}.Debug|x86.Build.0 = Debug|Win32
+		{0D58E4F5-41B4-4BB6-ADB5-A14E019B7AB0}.Profile|x64.ActiveCfg = Release|x64
+		{0D58E4F5-41B4-4BB6-ADB5-A14E019B7AB0}.Profile|x64.Build.0 = Release|x64
+		{0D58E4F5-41B4-4BB6-ADB5-A14E019B7AB0}.Profile|x86.ActiveCfg = Release|Win32
+		{0D58E4F5-41B4-4BB6-ADB5-A14E019B7AB0}.Profile|x86.Build.0 = Release|Win32
+		{0D58E4F5-41B4-4BB6-ADB5-A14E019B7AB0}.Release|x64.ActiveCfg = Release|x64
+		{0D58E4F5-41B4-4BB6-ADB5-A14E019B7AB0}.Release|x64.Build.0 = Release|x64
+		{0D58E4F5-41B4-4BB6-ADB5-A14E019B7AB0}.Release|x86.ActiveCfg = Release|Win32
+		{0D58E4F5-41B4-4BB6-ADB5-A14E019B7AB0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
