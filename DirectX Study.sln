@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NormalMap", "NormalMap\Norm
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Animate", "Animate\Animate.vcxproj", "{0D58E4F5-41B4-4BB6-ADB5-A14E019B7AB0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Skinning", "Skinning\Skinning.vcxproj", "{4628DACF-F695-4467-A514-935D9D2D53B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -209,6 +211,18 @@ Global
 		{0D58E4F5-41B4-4BB6-ADB5-A14E019B7AB0}.Release|x64.Build.0 = Release|x64
 		{0D58E4F5-41B4-4BB6-ADB5-A14E019B7AB0}.Release|x86.ActiveCfg = Release|Win32
 		{0D58E4F5-41B4-4BB6-ADB5-A14E019B7AB0}.Release|x86.Build.0 = Release|Win32
+		{4628DACF-F695-4467-A514-935D9D2D53B4}.Debug|x64.ActiveCfg = Debug|x64
+		{4628DACF-F695-4467-A514-935D9D2D53B4}.Debug|x64.Build.0 = Debug|x64
+		{4628DACF-F695-4467-A514-935D9D2D53B4}.Debug|x86.ActiveCfg = Debug|Win32
+		{4628DACF-F695-4467-A514-935D9D2D53B4}.Debug|x86.Build.0 = Debug|Win32
+		{4628DACF-F695-4467-A514-935D9D2D53B4}.Profile|x64.ActiveCfg = Release|x64
+		{4628DACF-F695-4467-A514-935D9D2D53B4}.Profile|x64.Build.0 = Release|x64
+		{4628DACF-F695-4467-A514-935D9D2D53B4}.Profile|x86.ActiveCfg = Release|Win32
+		{4628DACF-F695-4467-A514-935D9D2D53B4}.Profile|x86.Build.0 = Release|Win32
+		{4628DACF-F695-4467-A514-935D9D2D53B4}.Release|x64.ActiveCfg = Release|x64
+		{4628DACF-F695-4467-A514-935D9D2D53B4}.Release|x64.Build.0 = Release|x64
+		{4628DACF-F695-4467-A514-935D9D2D53B4}.Release|x86.ActiveCfg = Release|Win32
+		{4628DACF-F695-4467-A514-935D9D2D53B4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
