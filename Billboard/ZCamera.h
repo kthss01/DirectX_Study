@@ -15,7 +15,7 @@ public:
 	ZCamera(); // 생성자
 
 	// 카메라 행렬 얻기
-	D3DXMATRIXA16* GetViewMatirx() { return &m_matView; }
+	D3DXMATRIXA16* GetViewMatrix() { return &m_matView; }
 
 	// 빌보드 행렬 얻기
 	D3DXMATRIXA16* GetBillMatrix() { return &m_matBill; }
