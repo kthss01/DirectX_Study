@@ -82,7 +82,7 @@ HRESULT ZTerrain::_BuildHeightMap(LPSTR lpFilename) {
 	for (int z = 0; z < m_czDIB; z++) {
 		for (int x = 0; x < m_cxDIB; x++) {
 			v.p.x = (float)((x - m_cxDIB / 2) * m_vfScale.x);
-			v.p.z = (float)((z - m_czDIB / 2) * m_vfScale.z);
+			v.p.z = -(float)((z - m_czDIB / 2) * m_vfScale.z);
 			v.p.y = (float)(*(DIB_DATAXY_INV(pDIB, x, z))) * m_vfScale.y;
 
 			D3DXVec3Normalize(&v.n, &v.p);
