@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Camera", "Camera\Camera.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Frustum Culling", "Frustum Culling\Frustum Culling.vcxproj", "{1C407AAF-7DDD-4388-B7B7-94D0090F4F1B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quad Tree", "Quad Tree\Quad Tree.vcxproj", "{1FB149B9-41CB-470B-A5D1-D2BF39404CFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -265,6 +267,18 @@ Global
 		{1C407AAF-7DDD-4388-B7B7-94D0090F4F1B}.Release|x64.Build.0 = Release|x64
 		{1C407AAF-7DDD-4388-B7B7-94D0090F4F1B}.Release|x86.ActiveCfg = Release|Win32
 		{1C407AAF-7DDD-4388-B7B7-94D0090F4F1B}.Release|x86.Build.0 = Release|Win32
+		{1FB149B9-41CB-470B-A5D1-D2BF39404CFF}.Debug|x64.ActiveCfg = Debug|x64
+		{1FB149B9-41CB-470B-A5D1-D2BF39404CFF}.Debug|x64.Build.0 = Debug|x64
+		{1FB149B9-41CB-470B-A5D1-D2BF39404CFF}.Debug|x86.ActiveCfg = Debug|Win32
+		{1FB149B9-41CB-470B-A5D1-D2BF39404CFF}.Debug|x86.Build.0 = Debug|Win32
+		{1FB149B9-41CB-470B-A5D1-D2BF39404CFF}.Profile|x64.ActiveCfg = Release|x64
+		{1FB149B9-41CB-470B-A5D1-D2BF39404CFF}.Profile|x64.Build.0 = Release|x64
+		{1FB149B9-41CB-470B-A5D1-D2BF39404CFF}.Profile|x86.ActiveCfg = Release|Win32
+		{1FB149B9-41CB-470B-A5D1-D2BF39404CFF}.Profile|x86.Build.0 = Release|Win32
+		{1FB149B9-41CB-470B-A5D1-D2BF39404CFF}.Release|x64.ActiveCfg = Release|x64
+		{1FB149B9-41CB-470B-A5D1-D2BF39404CFF}.Release|x64.Build.0 = Release|x64
+		{1FB149B9-41CB-470B-A5D1-D2BF39404CFF}.Release|x86.ActiveCfg = Release|Win32
+		{1FB149B9-41CB-470B-A5D1-D2BF39404CFF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
