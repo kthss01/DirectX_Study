@@ -102,6 +102,7 @@ int ZQuadTree::_GenTriIndex(int nTris, LPVOID pIndex) {
 		*p++ = m_nCorner[0];
 		*p++ = m_nCorner[1];
 		*p++ = m_nCorner[2];
+		nTris++;
 
 		// 우측하단 삼각형
 		*p++ = m_nCorner[2];
