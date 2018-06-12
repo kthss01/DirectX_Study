@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quad Tree", "Quad Tree\Quad
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quad Tree Frustum Culling", "Quad Tree Frustum Culling\Quad Tree Frustum Culling.vcxproj", "{D3B7DA65-8838-48A7-B7A9-BC58C2C64A5A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LOD", "LOD\LOD.vcxproj", "{0AB18E83-0848-460D-B242-450F37566F11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -293,6 +295,18 @@ Global
 		{D3B7DA65-8838-48A7-B7A9-BC58C2C64A5A}.Release|x64.Build.0 = Release|x64
 		{D3B7DA65-8838-48A7-B7A9-BC58C2C64A5A}.Release|x86.ActiveCfg = Release|Win32
 		{D3B7DA65-8838-48A7-B7A9-BC58C2C64A5A}.Release|x86.Build.0 = Release|Win32
+		{0AB18E83-0848-460D-B242-450F37566F11}.Debug|x64.ActiveCfg = Debug|x64
+		{0AB18E83-0848-460D-B242-450F37566F11}.Debug|x64.Build.0 = Debug|x64
+		{0AB18E83-0848-460D-B242-450F37566F11}.Debug|x86.ActiveCfg = Debug|Win32
+		{0AB18E83-0848-460D-B242-450F37566F11}.Debug|x86.Build.0 = Debug|Win32
+		{0AB18E83-0848-460D-B242-450F37566F11}.Profile|x64.ActiveCfg = Release|x64
+		{0AB18E83-0848-460D-B242-450F37566F11}.Profile|x64.Build.0 = Release|x64
+		{0AB18E83-0848-460D-B242-450F37566F11}.Profile|x86.ActiveCfg = Release|Win32
+		{0AB18E83-0848-460D-B242-450F37566F11}.Profile|x86.Build.0 = Release|Win32
+		{0AB18E83-0848-460D-B242-450F37566F11}.Release|x64.ActiveCfg = Release|x64
+		{0AB18E83-0848-460D-B242-450F37566F11}.Release|x64.Build.0 = Release|x64
+		{0AB18E83-0848-460D-B242-450F37566F11}.Release|x86.ActiveCfg = Release|Win32
+		{0AB18E83-0848-460D-B242-450F37566F11}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
