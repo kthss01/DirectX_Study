@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quad Tree Frustum Culling",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LOD", "LOD\LOD.vcxproj", "{0AB18E83-0848-460D-B242-450F37566F11}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "균열방지", "균열방지\균열방지.vcxproj", "{DCA0466E-19FA-4622-92E1-25B8CB7D85D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -307,6 +309,18 @@ Global
 		{0AB18E83-0848-460D-B242-450F37566F11}.Release|x64.Build.0 = Release|x64
 		{0AB18E83-0848-460D-B242-450F37566F11}.Release|x86.ActiveCfg = Release|Win32
 		{0AB18E83-0848-460D-B242-450F37566F11}.Release|x86.Build.0 = Release|Win32
+		{DCA0466E-19FA-4622-92E1-25B8CB7D85D7}.Debug|x64.ActiveCfg = Debug|x64
+		{DCA0466E-19FA-4622-92E1-25B8CB7D85D7}.Debug|x64.Build.0 = Debug|x64
+		{DCA0466E-19FA-4622-92E1-25B8CB7D85D7}.Debug|x86.ActiveCfg = Debug|Win32
+		{DCA0466E-19FA-4622-92E1-25B8CB7D85D7}.Debug|x86.Build.0 = Debug|Win32
+		{DCA0466E-19FA-4622-92E1-25B8CB7D85D7}.Profile|x64.ActiveCfg = Release|x64
+		{DCA0466E-19FA-4622-92E1-25B8CB7D85D7}.Profile|x64.Build.0 = Release|x64
+		{DCA0466E-19FA-4622-92E1-25B8CB7D85D7}.Profile|x86.ActiveCfg = Release|Win32
+		{DCA0466E-19FA-4622-92E1-25B8CB7D85D7}.Profile|x86.Build.0 = Release|Win32
+		{DCA0466E-19FA-4622-92E1-25B8CB7D85D7}.Release|x64.ActiveCfg = Release|x64
+		{DCA0466E-19FA-4622-92E1-25B8CB7D85D7}.Release|x64.Build.0 = Release|x64
+		{DCA0466E-19FA-4622-92E1-25B8CB7D85D7}.Release|x86.ActiveCfg = Release|Win32
+		{DCA0466E-19FA-4622-92E1-25B8CB7D85D7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
